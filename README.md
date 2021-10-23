@@ -2,7 +2,7 @@
 
 Craft files for the rocket, and a version without the parts needed for kOS, are included.
 
-Link to Youtube video: 
+Link to Youtube video: https://www.youtube.com/watch?v=2FhB_55Bq34
 
 This is the Kerbal Operating System code for an Atlas V 401 rocket launch carrying the Lucy Spacecraft to a solar orbit.
 
